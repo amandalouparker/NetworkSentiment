@@ -12,6 +12,6 @@ Below is an example Gephi network graph generated from the example data included
 
 ![Example Graph](/images/ChristineFord.png)
 
-This graph has been formated to highlight *who* the hashtag activisim is lobbying (Jeff Flake is the most prominent in this example), by increasing the size of account nodes that are recieving the most tweets.  The number of outgoing tweets per node is visualised with wider edges (lines). Sentioment is depicted with a colour gradient that goes from red (negative), grey (neutral or missing) through to green (positive)
+This graph has been formated to highlight *who* the hashtag activisim is lobbying (Jeff Flake is the most prominent in this example), by increasing the size of account nodes that are recieving the most tweets.  The number of outgoing tweets per node is visualised with wider edges (lines). Sentiment is depicted with a colour gradient that goes from red (negative), grey (neutral or missing) through to green (positive)
 
 
